@@ -4,7 +4,7 @@ This is the code accompanying our paper by Alexander Becker, Jan D. Wegner, Evan
 
 [[Link to paper]](https://arxiv.org/abs/2410.20882) 
 [[Link to interactive maps]](https://albecker.users.earthengine.app/view/agroforestry)
-[[Link to checkpoints]](https://share.phys.ethz.ch/~pf/albecker/agroforestry/checkpoints/)
+[[Link to checkpoints & maps]](https://share.phys.ethz.ch/~pf/albecker/agroforestry/)
 
 ## Code organization
 
